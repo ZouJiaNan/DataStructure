@@ -13,6 +13,14 @@ public class Node {
     {
         isOrder=false;
     }
+
+    public Node(){
+
+    }
+
+    public Node(int data){
+        this.data=data;
+    }
     public int getData() {
         return data;
     }

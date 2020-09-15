@@ -17,8 +17,7 @@ public class queue {
 
     //入队
     public static void Enter(Node node){
-        last=last+1;
-        que[last]=node;
+        que[++last]=node;
     }
     //出队
     public static Node exit(){
@@ -27,6 +26,6 @@ public class queue {
     }
     //判空
     public static boolean isEmpty(){
-        return que[first]==null ? true:false;
+        return (que[first]==null&&first==last) ? true:false;
     }
 }
