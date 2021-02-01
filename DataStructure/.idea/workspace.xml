@@ -12,11 +12,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/BFS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+=======
+      <file leaf-file-name="Array.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/Array/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,6 +32,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/Dijkstra.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,11 +40,30 @@
               <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DFS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graph/traverse/DFS.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,6 +78,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="21" column="5" selection-start-line="12" selection-start-column="11" selection-end-line="21" selection-end-column="5" />
+=======
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,6 +92,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Graph/ShortestPath/Dijkstra.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,19 +107,44 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
               <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+=======
+      <file leaf-file-name="queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/queue/queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+              <folding>
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+              </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DijkstraTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/DijkstraTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+      <file leaf-file-name="btTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DijkstraNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/DijkstraNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,16 +158,38 @@
                 <element signature="e#415#416#0" expanded="true" />
                 <element signature="e#460#461#0" expanded="true" />
                 <element signature="e#500#501#0" expanded="true" />
+=======
+      <file leaf-file-name="ALV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/ALV/ALV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="BFSTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/BFSTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+=======
+      <file leaf-file-name="ALVTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/ALV/ALVTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
             </state>
           </provider>
         </entry>
@@ -144,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/linearStructure/queue/queue.java" />
         <option value="$PROJECT_DIR$/src/linearStructure/tree/ALV/ALV.java" />
         <option value="$PROJECT_DIR$/src/linearStructure/tree/ALV/ALVTest.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/linearStructure/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/linearStructure/graph/DFSTest.java" />
         <option value="$PROJECT_DIR$/src/linearStructure/graph/DFS.java" />
@@ -158,6 +242,8 @@
         <option value="$PROJECT_DIR$/src/Graph/traverse/DFS.java" />
         <option value="$PROJECT_DIR$/src/Graph/MinimumSpanningTree/prim.java" />
         <option value="$PROJECT_DIR$/src/Graph/ShortestPath/Dijkstra.java" />
+=======
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       </list>
     </option>
   </component>
@@ -171,16 +257,27 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-268" />
     <option name="y" value="90" />
     <option name="width" value="1034" />
     <option name="height" value="923" />
+=======
+    <option name="x" value="50" />
+    <option name="y" value="320" />
+    <option name="width" value="1440" />
+    <option name="height" value="890" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,15 +294,31 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Graph" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="linearStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linearStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,7 +327,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+=======
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -233,29 +350,49 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.prim">
     <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.traverse.BFS" />
+=======
+  <component name="RunManager" selected="Application.ALVTest">
+    <configuration name="ALVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearStructure.tree.ALV.ALVTest" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <module name="DataStructure" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
           <option name="PATTERN" value="Graph.traverse.*" />
+=======
+          <option name="PATTERN" value="linearStructure.tree.ALV.*" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+<<<<<<< HEAD
     <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.traverse.DFS" />
+=======
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearStructure.Array.ArrayTest" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <module name="DataStructure" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
           <option name="PATTERN" value="Graph.traverse.*" />
+=======
+          <option name="PATTERN" value="linearStructure.Array.*" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.ShortestPath.Dijkstra" />
       <module name="DataStructure" />
@@ -263,6 +400,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Graph.ShortestPath.*" />
+=======
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearStructure.List.ListTest" />
+      <module name="DataStructure" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linearStructure.List.*" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,6 +416,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="prim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.MinimumSpanningTree.prim" />
       <module name="DataStructure" />
@@ -277,14 +424,36 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Graph.MinimumSpanningTree.*" />
+=======
+    <configuration name="binarySearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearStructure.tree.search.binarySearchTest" />
+      <module name="DataStructure" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linearStructure.tree.search.*" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+<<<<<<< HEAD
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="DataStructure" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+=======
+    <configuration name="btTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearStructure.tree.binaryTree.btTest" />
+      <module name="DataStructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linearStructure.tree.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -325,6 +494,7 @@
       <listeners />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.test" />
       <item itemvalue="Application.DFS" />
       <item itemvalue="Application.BFS" />
@@ -338,6 +508,21 @@
         <item itemvalue="Application.BFS" />
         <item itemvalue="Application.DFS" />
         <item itemvalue="Application.test" />
+=======
+      <item itemvalue="Application.ListTest" />
+      <item itemvalue="Application.ArrayTest" />
+      <item itemvalue="Application.binarySearchTest" />
+      <item itemvalue="Application.btTest" />
+      <item itemvalue="Application.ALVTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ALVTest" />
+        <item itemvalue="Application.btTest" />
+        <item itemvalue="Application.binarySearchTest" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.ArrayTest" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +547,7 @@
       <workItem from="1600086067606" duration="6125000" />
       <workItem from="1600092219645" duration="300000" />
       <workItem from="1600177084696" duration="3361000" />
+<<<<<<< HEAD
       <workItem from="1600587331700" duration="31000" />
       <workItem from="1602420541100" duration="11004000" />
       <workItem from="1602506660746" duration="437000" />
@@ -379,17 +565,27 @@
       <workItem from="1611324834922" duration="32000" />
       <workItem from="1611667125827" duration="5583000" />
       <workItem from="1612185163785" duration="384000" />
+=======
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="81352000" />
+=======
+    <option name="totallyTimeSpent" value="37341000" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Messages" order="0" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -397,25 +593,40 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="7" weight="0.49217638" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1769437" />
+=======
+      <window_info anchor="bottom" id="Run" order="7" weight="0.29760227" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21313673" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Structure" order="11" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="8" weight="0.2859175" />
+=======
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3638928" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.38081804" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32859176" />
+=======
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,14 +637,174 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
       <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+=======
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/queue/queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/queue/queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -441,6 +812,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -448,6 +825,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -455,6 +838,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -469,6 +867,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -476,6 +880,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -490,6 +909,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -532,6 +957,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -567,6 +998,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
           <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -581,6 +1018,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -595,6 +1038,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
         </state>
       </provider>
     </entry>
@@ -647,6 +1096,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -677,10 +1127,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/Graph.java" />
+=======
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
     <entry file="file://$PROJECT_DIR$/src/linearStructure/Array/Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -710,10 +1163,45 @@
             <element signature="e#415#416#0" expanded="true" />
             <element signature="e#460#461#0" expanded="true" />
             <element signature="e#500#501#0" expanded="true" />
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/btTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/ALV/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/queue/queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/BFSTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -725,12 +1213,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/binaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/linearStructure/graph/DijkstraTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -752,10 +1266,21 @@
           <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/ALV/ALV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Graph/traverse/DFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -767,12 +1292,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="21" column="5" selection-start-line="12" selection-start-column="11" selection-end-line="21" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/linearStructure/tree/ALV/ALVTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Graph/ShortestPath/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -787,6 +1319,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6d506307cd5e7136f3aafa0bca9a28f0c06b88a1
   </component>
   <component name="masterDetails">
     <states>
