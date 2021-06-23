@@ -1,7 +1,7 @@
 package Graph.MinimumSpanningTree;
 
 public class prim {
-    private String test_remote;
+    private String test_local;
     static int[][] graph;
     static int[] dist;
     static int[] path=new int[7];
