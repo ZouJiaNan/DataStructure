@@ -2,6 +2,9 @@ package linearStructure.stack;
 
 import linearStructure.List.List;
 
+/**
+ * 栈
+ */
 public class Stack {
     //数据域
     List list;

@@ -1,5 +1,9 @@
 package linearStructure.List;
 
+/**
+ *链表
+ */
+
 public class List {
     //节点
     public class Node{

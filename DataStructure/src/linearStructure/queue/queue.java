@@ -1,6 +1,10 @@
 package linearStructure.queue;
 
 import linearStructure.tree.binaryTree.Node;
+
+/**
+ * 顺序表
+ */
 //队列，FIFO
 public class queue {
     private static Node[] que;

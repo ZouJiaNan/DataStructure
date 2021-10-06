@@ -4,6 +4,9 @@ import sun.security.util.Length;
 
 import javax.sound.midi.Soundbank;
 
+/**
+ * 顺序表
+ */
 public class Array{
     private Object[] array;
     private int maxSize;
